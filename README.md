@@ -1,6 +1,11 @@
 ## Maze Solver Astar Algorithm 
 ### Using Manhattan and Euclidean distance function
 
+There are EXE(Executable File) version
+Download Link : https://drive.google.com/file/d/1asy4BK-b2Ld3EAKB5OaxTgHDgejHB-Yj/view?usp=sharing
+-Instruction for EXE-
+1.) Read README.txt
+
 Maze are customizable with GUI after select Mode.
 
 There are four modes such as:
