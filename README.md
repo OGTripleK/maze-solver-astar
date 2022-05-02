@@ -13,6 +13,10 @@ Maze are customizable with GUI after select Mode.
 ![image](https://user-images.githubusercontent.com/77602952/166197382-70932e3f-07e0-43fa-a381-c5f4b0b035eb.png)
 
 
+![image](https://user-images.githubusercontent.com/77602952/166197593-210cf0ac-369a-431f-99b7-a58b98d705f3.png)
+
+
+
 There are four modes such as:
 
 Manhattan Distance Mode
