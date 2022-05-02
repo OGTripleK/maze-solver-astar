@@ -1,6 +1,7 @@
 ## Maze Solver Astar Algorithm 
 ### Using Manhattan and Euclidean distance function
-
+Created By Parsawit Deshwattanatham , Chitiphat Jaroonwanit, Petch Vessayapiroon
+________________________________________________________________________
 There are EXE(Executable File) version
 Download Link : https://drive.google.com/file/d/1asy4BK-b2Ld3EAKB5OaxTgHDgejHB-Yj/view?usp=sharing
 
