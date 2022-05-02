@@ -3,10 +3,15 @@
 
 There are EXE(Executable File) version
 Download Link : https://drive.google.com/file/d/1asy4BK-b2Ld3EAKB5OaxTgHDgejHB-Yj/view?usp=sharing
--Instruction for EXE-
-1.) Read README.txt
 
+-Instruction for EXE-
+
+1.) Read README.txt
+________________________________________________________________________
 Maze are customizable with GUI after select Mode.
+
+![image](https://user-images.githubusercontent.com/77602952/166197382-70932e3f-07e0-43fa-a381-c5f4b0b035eb.png)
+
 
 There are four modes such as:
 
